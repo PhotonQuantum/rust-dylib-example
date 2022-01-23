@@ -1,0 +1,2 @@
+[workspace]
+members = ["bin", "is_odd_lib"]
